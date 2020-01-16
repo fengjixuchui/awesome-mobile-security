@@ -35,6 +35,8 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 * [Zero to Hero - Mobile Application Testing - Android Platform](https://nileshsapariya.blogspot.com/2016/11/zero-to-hero-mobile-application-testing.html)
 * [How to use FRIDA to bruteforce Secure Startup with FDE-encryption on a Samsung G935F running Android 8](https://github.com/Magpol/fridafde)
 * [Android Malware Adventures](https://docs.google.com/presentation/d/1pYB522E71hXrp4m3fL3E3fnAaOIboJKqpbyE5gSsOes/edit)
+* [AAPG - Android application penetration testing guide](https://nightowl131.github.io/AAPG/)
+* [Bypassing Android Anti-Emulation](https://www.juanurs.com/Bypassing-Android-Anti-Emulation-Part-I/)
 
 
     
@@ -100,7 +102,7 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 * [AndroL4b - Android security virtual machine based on ubuntu-mate](https://github.com/sh4hin/Androl4b)
 * [Radare2 - Unix-like reverse engineering framework and commandline tools](https://github.com/radareorg/radare2)
 * [Cutter - Free and Open Source RE Platform powered by radare2](https://cutter.re/)
-* [yteCodeViewer - Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger)](https://bytecodeviewer.com/)
+* [ByteCodeViewer - Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger)](https://bytecodeviewer.com/)
 * [Mobile-Security-Framework MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
 * [CobraDroid - Custom build of the Android operating system geared specifically for application security ](https://thecobraden.com/projects/cobradroid/)
 * [Magisk v20.2 - Root & Universal Systemless Interface](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
@@ -144,6 +146,7 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 * [Android-InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2)
 * [Android-security](https://github.com/rafaeltoledo/android-security)
 * [VulnDroid](https://github.com/shahenshah99/VulnDroid)
+* [FridaLab](https://rossmarks.uk/blog/fridalab/)
   
 ### Talks
   
@@ -163,6 +166,7 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 * [Overview of common Android app vulnerabilities](https://www.bugcrowd.com/resources/webinars/overview-of-common-android-app-vulnerabilities/)
 * [Android Dev Summit 2019](https://developer.android.com/dev-summit)
 * [Android security architecture](https://www.youtube.com/watch?v=3asW-nBU-JU)
+* [Get the Ultimate Privilege of Android Phone](https://vimeo.com/335948808)
   
 ### Misc.
     
@@ -207,6 +211,8 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 * [A Deep Dive into iOS Code Signing](https://blog.umangis.me/a-deep-dive-into-ios-code-signing/)
 * [AirDoS: remotely render any nearby iPhone or iPad unusable](https://kishanbagaria.com/airdos/)
 * [How to access and traverse a #checkra1n jailbroken iPhone File system using SSH](https://aboutdfir.com/jailbreaking-checkra1n-configuration/)
+* [Deep dive into iOS Exploit chains found in the wild - Project Zero](https://googleprojectzero.blogspot.com/2019/08/a-very-deep-dive-into-ios-exploit.html)
+* [The Fully Remote Attack Surface of the iPhone - Project Zero](https://googleprojectzero.blogspot.com/2019/08/the-fully-remote-attack-surface-of.html)
 
 
 ### Books
